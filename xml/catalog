@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <nextCatalog catalog="file:///usr/local/opt/docbook/docbook/xml/4.2/catalog.xml"/>
+  <nextCatalog catalog="file:///usr/local/opt/docbook/docbook/xml/4.1.2/catalog.xml"/>
+  <nextCatalog catalog="file:///usr/local/opt/docbook/docbook/xml/4.3/catalog.xml"/>
+  <nextCatalog catalog="file:///usr/local/opt/docbook/docbook/xml/4.4/catalog.xml"/>
+  <nextCatalog catalog="file:///usr/local/opt/docbook/docbook/xml/4.5/catalog.xml"/>
+  <nextCatalog catalog="file:///usr/local/opt/docbook/docbook/xml/5.0/catalog.xml"/>
+  <nextCatalog catalog="file:///usr/local/opt/docbook/docbook/xml/5.1/catalog.xml"/>
+  <nextCatalog catalog="file:///usr/local/opt/docbook-xsl/docbook-xsl/catalog.xml"/>
+  <rewriteSystem systemIdStartString="https://cdn.docbook.org/release/xsl-nons/1.79.2" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl"/>
+  <rewriteURI uriStartString="https://cdn.docbook.org/release/xsl-nons/1.79.2" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl"/>
+  <rewriteSystem systemIdStartString="https://cdn.docbook.org/release/xsl-nons/current" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl"/>
+  <rewriteURI uriStartString="https://cdn.docbook.org/release/xsl-nons/current" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl"/>
+  <rewriteSystem systemIdStartString="http://docbook.sourceforge.net/release/xsl/1.79.2" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl"/>
+  <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl/1.79.2" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl"/>
+  <rewriteSystem systemIdStartString="http://docbook.sourceforge.net/release/xsl/current" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl"/>
+  <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl/current" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl"/>
+  <nextCatalog catalog="file:///usr/local/opt/docbook-xsl/docbook-xsl-ns/catalog.xml"/>
+  <rewriteSystem systemIdStartString="https://cdn.docbook.org/release/xsl/1.79.2" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl-ns"/>
+  <rewriteURI uriStartString="https://cdn.docbook.org/release/xsl/1.79.2" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl-ns"/>
+  <rewriteSystem systemIdStartString="https://cdn.docbook.org/release/xsl/current" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl-ns"/>
+  <rewriteURI uriStartString="https://cdn.docbook.org/release/xsl/current" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl-ns"/>
+  <rewriteSystem systemIdStartString="http://docbook.sourceforge.net/release/xsl-ns/1.79.2" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl-ns"/>
+  <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl-ns/1.79.2" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl-ns"/>
+  <rewriteSystem systemIdStartString="http://docbook.sourceforge.net/release/xsl-ns/current" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl-ns"/>
+  <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl-ns/current" rewritePrefix="file:///usr/local/opt/docbook-xsl/docbook-xsl-ns"/>
+</catalog>

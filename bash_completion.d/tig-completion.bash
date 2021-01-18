@@ -1,0 +1,1 @@
+../../Cellar/tig/2.5.1/etc/bash_completion.d/tig-completion.bash
